@@ -8,6 +8,8 @@ public class Demo {
 		}
 		else {
 			System.out.println("Given number is odd");
+						System.out.println("Given number is odd");
+
 		}
 	}
 }
