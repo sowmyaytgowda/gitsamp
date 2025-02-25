@@ -10,6 +10,8 @@ public class Demo2 {
 			System.out.println("Given number is odd");
 						System.out.println("Given number is odd");
 						System.out.println("Adding demo2 to github,pushing to github");
+									System.out.println("pull to project");
+
 
 		}
 }
